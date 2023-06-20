@@ -79,6 +79,7 @@ class _LoginScreen extends State {
       Utils.showToast(Strings.passwordError);
     } else {
       Utils.showToast(Strings.loginSuccess);
+      NavigationController.navigateToHomePage(context);
     }
   }
 }

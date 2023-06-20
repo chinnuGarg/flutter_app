@@ -1,0 +1,33 @@
+{
+  "type": "paymentType",
+  "data": [
+    {
+      "id": "1",
+      "image": "",
+      "title": "Pay someone",
+      "description": "To wallet, bank or mobile number",
+      "bgcolor": "0xfff5f5fe"
+    },
+    {
+      "id": "2",
+      "image": "",
+      "title": "Request money",
+      "description": "Request money from OroboPay users",
+      "bgcolor": "0xffdae9da"
+    },
+    {
+      "id": "3",
+      "image": "",
+      "title": "Buy airtime",
+      "description": "Top-up or send airtime across Africa",
+      "bgcolor": "0xfffffaf0"
+    },
+    {
+      "id": "4",
+      "image": "",
+      "title": "Pay bill",
+      "description": "Zero transaction fees when you pay",
+      "bgcolor": "0xfff3f4f6"
+    }
+  ]
+}

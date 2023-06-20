@@ -98,6 +98,7 @@ class _RegisterScreen extends State {
       Utils.showToast(Strings.collegeError);
     } else {
       Utils.showToast(Strings.registerSuccess);
+      NavigationController.navigateToHomePage(context);
     }
   }
 }

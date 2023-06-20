@@ -1,0 +1,35 @@
+{
+  "type": "favouritePerson",
+  "data": [
+    {
+      "id": "1",
+      "name": "Add",
+      "image": "",
+      "flag": ""
+    },
+    {
+      "id": "2",
+      "name": "Shinu",
+      "image": "https://w7.pngwing.com/pngs/18/30/png-transparent-geek-girl-nerd-cartoon-cartoon-character-miscellaneous-hand-computer-thumbnail.png",
+      "flag": "https://cdn.countryflags.com/thumbs/europe/flag-square-500.png"
+    },
+    {
+      "id": "3",
+      "name": "Sarita",
+      "image": "https://w7.pngwing.com/pngs/255/924/png-transparent-cartoon-character-drawing-animation-cartoon-characters-fictional-character-cartoon-woman-thumbnail.png",
+      "flag": "https://cdn.countryflags.com/thumbs/europe/flag-square-500.png"
+    },
+    {
+      "id": "4",
+      "name": "Ashish",
+      "image": "https://w7.pngwing.com/pngs/356/958/png-transparent-cartoon-business-people-white-collar-glasses-business-thumbnail.png",
+      "flag": "https://cdn.britannica.com/25/4825-004-F1975B92/Flag-United-Kingdom.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Pankaj",
+      "image": "https://w7.pngwing.com/pngs/449/734/png-transparent-businessperson-cartoon-man-hand-boy-cartoon-thumbnail.png",
+      "flag": "https://cdn.countryflags.com/thumbs/europe/flag-square-500.png"
+    }
+  ]
+}

@@ -23,4 +23,6 @@ class Strings {
   static const String collegeError = "College required";
   static const String loginSuccess = "You are successfully login";
   static const String registerSuccess = "You are successfully registered";
+  static const String hi = "Hi Ehi";
+  static const String notificationClicked = "Notification icon clicked";
 }
